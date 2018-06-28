@@ -1,2 +1,2 @@
 # hello-world
-Initial Repository
+Amateur programmer learning Git Hub
